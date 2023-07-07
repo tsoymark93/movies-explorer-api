@@ -1,2 +1,2 @@
 # movies-explorer-api
-Домен - **(api.movies.tsoymark93.nomoredomains.work)**
+Домен - [(https://api.movies.tsoymark93.nomoredomains.work)]
